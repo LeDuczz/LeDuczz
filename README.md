@@ -85,7 +85,7 @@ https://happabi.com
 
 **FPT University**  
 Major: Software Engineering  
-GPA: 8.12/10  
+GPA: 3.41/4 
 Expected Graduation: December 2026
 
 ## Certifications & Awards
