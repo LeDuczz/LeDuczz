@@ -42,7 +42,7 @@ Git, GitHub, Docker, Docker Compose, Postman, Prometheus
 
 Microsoft Copilot Studio, Power Automate, Power Apps, Power BI, Microsoft Fabric, ChatGPT
 
-## Featured Projects
+## Featured Project
 
 ### Happabi - Maternity & Postpartum Care Booking Platform
 
@@ -70,31 +70,6 @@ Java 21, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Redis, AWS C
 **Live Demo**
 
 https://happabi.com
-
----
-
-### Blood Donation Support System
-
-A full-stack web application for managing blood donation schedules, blood inventory, donor registrations, emergency blood requests, and admin reports.
-
-**Highlights**
-
-- Developed RESTful APIs with Spring Boot for donation schedules, donation history, PDF certificate generation, and role-based access control
-- Built and integrated React MUI components with backend APIs
-- Collaborated in an Agile team, participated in debugging, documentation, and code review
-
-**Tech Stack**
-
-Spring Boot, Spring Security, JWT, WebSocket, AWS EC2, SpeedSMS, React MUI, SQL Server
-
-**Repositories**
-
-- Frontend: https://github.com/tunkapro/BloodDonationSupportSystem_FE
-- Backend: https://github.com/overcode250204/BloodDonationSupportSystem_BE
-
-**Live Demo**
-
-https://trungtamhienmau.com
 
 ## Internship Experience
 
